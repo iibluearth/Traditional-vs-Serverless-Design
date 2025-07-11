@@ -1,7 +1,8 @@
-# Traditional-vs-Serverless-Design
+# Traditional-vs-Serverless-Design Part 3
 
 <h2> Overview </h2>
 Purpose: Compare traditional vs serverless architecture 
+
 Application: Fenty 
 
 <h2> Traditional Architecture </h2>
